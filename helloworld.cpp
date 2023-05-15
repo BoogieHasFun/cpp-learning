@@ -38,8 +38,10 @@ int main()
   cout << "you are " << age << " years old";
 
 
-  // will come back to type conversions after doing if
+  // will come back to type conversions after doing user inputs n' stuff
 
+  // user input
+  // file is getting to large and hard to read, go to helloworld1.cpp for more :D
 
 
   // check if code runs good (0 = good, 1 = bad)
